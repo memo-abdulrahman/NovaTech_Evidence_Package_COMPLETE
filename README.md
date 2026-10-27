@@ -46,3 +46,13 @@ Dashboard exploration and documentation are in progress. Findings and metrics sh
 
 ## Author
 Abdul Rahman Mohsen
+## Dashboard Screenshots
+
+### Sales Pipeline
+![Sales Pipeline](sales-pipeline.png)
+
+### Marketing Funnel
+![Marketing Funnel](marketing-funnel.png)
+
+### Customer Health & Support
+![Customer Support](customer-support.png)
